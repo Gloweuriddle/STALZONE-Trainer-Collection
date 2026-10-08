@@ -1,5 +1,15 @@
 # 🎮 STALZONE — Ultimate Offline Trainer & Mod Collection
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=1800&pause=400&color=FFD700&center=true&vCenter=true&multiline=true&width=950&height=120&lines=%5B+STALZONE+%5D+%E2%96%BA+THE+ZONE+IS+CALLING;ANOMALY+DETECTED+%E2%96%BA+EMISSION+INCOMING;ENTER+THE+ZONE+%E2%96%BA+EXTRACT+OR+DIE" alt="STALZONE Typing Animation" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Zone Radiation Animation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1400&pause=300&color=FFD700&center=true&vCenter=true&width=900&lines=%5B+RAD%5D+%E2%96%BA+0.37+mSv%2Fh+%E2%80%94+SAFE;%5B+ZONE+%5D+%E2%96%BA+FACTION+WAR+ACTIVE;%5B+EXENS+%5D+%E2%96%BA+ANTI-CHEAT+MONITORING" alt="STALZONE Status Bar" />
+</p>
 <p align="center">
   <b>Enter the Zone | Master the Extraction | Become a Legend</b>
 </p>
